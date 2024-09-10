@@ -1,4 +1,4 @@
-# MovieVault-SQL
+# MovieVault-SQL Project
 ## Table of Contents
 
 - *Project Overview*
