@@ -10,7 +10,7 @@
 - *Findings*
 
 ### Project Overview
-The aim of this MovieVault SQL project is to
+The aim of this MovieVault SQL project is to explore the performance and profitability of diverse movie companies and to uncover insights about the most successful movie companies,top performing movies, trends in genre and other key facors that aims in driving success in the movie industry.
 
 
 ### Tools Used
