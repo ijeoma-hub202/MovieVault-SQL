@@ -2,7 +2,6 @@
 ## Table of Contents
 
 - *Project Overview*
-- *Data Sources*
 - *Tools Used*
 - *Data Cleaning with Power Query Excel*
 - *Data Analysis*
@@ -10,7 +9,7 @@
 - *Findings*
 
 ### Project Overview
-MovieVault SQL project aims to explore the performance and profitability of diverse movie companies and to uncover insights about the most successful movie companies, top performing movies, trends in genre and other key facors that aims in driving success in the movie industry. Sequel to this project, the analysis can create several useful impacts in the film industry, ranging from timing of release of movies, audience trends, budget allocation and many more.
+MovieVault SQL project aims to explore the performance and profitability of diverse movie companies and to uncover insights about the most successful movie companies, top performing movies, trends in genre and other key factors that aims in driving success in the movie industry. Sequel to this project, the analysis can create several useful impacts in the film industry, ranging from timing of release of movies, audience trends, budget allocation and many more.
 
 
 ### Tools Used
@@ -49,3 +48,8 @@ MovieVault SQL project aims to explore the performance and profitability of dive
 
 
 ### Power BI Visualization
+- On completion of the SQL queries and analysis, the results were exported to Power BI for visualization
+- The purpose of the visualization in power BI concerning the movies is to transform raw movie data into interactive, easy to understand insights for data-driven decisions
+
+
+### Findings
