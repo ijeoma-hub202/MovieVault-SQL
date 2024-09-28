@@ -53,3 +53,21 @@ MovieVault SQL project aims to explore the performance and profitability of dive
 
 
 ### Findings
+1. The total gross revenue from all the movies summed up to 587bn, while the total money budgeted for the movies is 196bn, thereby, making the profit reralized to be 391bn.
+2. The most expensive movie in terms of budget is the "Avengers: Endgame" with the budget sum of #356,000,000.
+3. The movie with the highest gross income of #17,575,593.845679 is "Avatar".
+4. The top 3 Movie companies that is successful in terms of gross income are;
+   - Warner Bros with the sum of #56,491,421,806
+   - Universal Pictures with the sum of #52,514,188,890
+   - Columbia PIctures with the sum of #43,008,941,346
+5. The top 3 Genres with the most movei counts are;
+   - Comedy with 2,245 movies
+   - Action with 1,705 movies
+   - Drama with 1,518 movies
+6. The most profitable genre over time is "Action" in the year 2018
+7. The movies with the highest votes are "The Dark Knight" and "The Shawshank Redemption" with the maximum votes of #2,400,000 each.
+8. The 3 top movie stars that have starred in the highest number of movei count are;
+   - Nicolas Cage with 43 movie counts
+   - Robert De Niro and Tom Hanks with 41 movie counts each
+   - Denzel Washington with 37 movie counts
+10. 
