@@ -70,4 +70,4 @@ MovieVault SQL project aims to explore the performance and profitability of dive
    - Nicolas Cage with 43 movie counts
    - Robert De Niro and Tom Hanks with 41 movie counts each
    - Denzel Washington with 37 movie counts
-10. 
+ 
